@@ -4,7 +4,7 @@ install any os with rpi app :
 
 ### When the system boot up from the sd card start the following commands:
 
-sudo apt update  && sudo apt upgrade -y
+sudo apt update  && sudo apt upgrade -y  **************
 sudo rpi-update && sudo reboot
 
 ### now connect your ssd to the PI and check your block usually it's known as sda:
